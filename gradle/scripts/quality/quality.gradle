@@ -1,0 +1,2 @@
+apply from: "$rootDir/gradle/scripts/quality/ktlint/ktlint.gradle"
+apply from: "$rootDir/gradle/scripts/quality/detekt/detekt.gradle"
